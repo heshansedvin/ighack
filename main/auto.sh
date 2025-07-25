@@ -17,7 +17,7 @@ echo '
                 [#] Auto Password Attack [#]
 ' |lolcat
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By E4Y << \e[0m\n"
 printf "\n"
 printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
